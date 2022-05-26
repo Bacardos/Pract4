@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Такси</string>
+    <string name="help_phone_input">Введите номер телефона</string>
+    <string name="telephone_number">Номер телефона</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилие</string>
+    <string name="registation">РЕГИСТРАЦИЯ</string>
+    <string name="set_path">Установить путь</string>
+    <string name="call_taxi">Вызвать такси</string>
+
+    <string name="Street">Улица</string>
+    <string name="House">Дом</string>
+    <string name="Flat">Подъезд</string>
+    <string name="Point_From">Где вы находитесь</string>
+    <string name="Point_To">Куда хотите добратья</string>
+
+    <string name="OK">OK</string>
+</resources>

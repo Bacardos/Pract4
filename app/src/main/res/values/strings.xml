@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="help_phone_input">Enter phone number</string>
+    <string name="telephone_number">Telephone number</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="registation">REGISTATION</string>
+    <string name="set_path">SET PATH</string>
+    <string name="call_taxi">CALL TAXI</string>
+
+    <string name="Street">Street</string>
+    <string name="House">House</string>
+    <string name="Flat">Flat</string>
+    <string name="Point_From">Point From</string>
+    <string name="Point_To">Point To</string>
+
+    <string name="OK">OK</string>
+
+</resources>
